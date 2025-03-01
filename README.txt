@@ -8,7 +8,7 @@ level-1-problems
 5. PenDistribution.java
 6. DiscountedFee.java
 7. EarthVolume.java
-8. DistanceConversion.java
+8. MilesInput.java
 9. DiscountedInput.java
 10. HeightConversion.java
 11. BasicCalculator.java
